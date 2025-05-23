@@ -1,7 +1,7 @@
 conda install nvidia/label/cuda-12.2.0::cuda-nvcc
 pip3 install torch==2.1.2 torchvision torchaudio
 pip install flash-attn==2.6.3
-pip install accelerate==0.33.0
+pip install accelerate==0.34.0
 pip install deepspeed==0.12.2
 pip install transformers==4.43.4
 pip install numpy==1.26.4
