@@ -1,0 +1,1 @@
+This folder stores the activation contexts and top-activating examples for the SAE features to help analyze feature behavior.

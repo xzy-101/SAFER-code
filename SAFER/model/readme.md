@@ -1,0 +1,1 @@
+Download the [Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) model into this folder.

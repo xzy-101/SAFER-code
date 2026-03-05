@@ -1,0 +1,1 @@
+This directory is used for storing trained SAE (Sparse Autoencoder) model weights.
