@@ -111,7 +111,7 @@ class OpenWebTextDataset(Dataset):
                     except json.JSONDecodeError:
                         print(f'Error decoding JSON in file: {file_path}')
                         continue
-            return data
+        return data
 
 
     def __len__(self):
